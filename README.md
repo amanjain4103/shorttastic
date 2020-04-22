@@ -11,3 +11,6 @@ In this project I need following modules :
 6.pdf view system
 7.search algorithm regular expression
 8.and more
+
+#GATHERING RESOURSES 
+1. /programming/cppCheatSheet => found this amazing pdf for c++ quick reference
