@@ -1,6 +1,6 @@
-# the-flash-notes
-The Aim of this Project is to make everything you want to learn smaller.
-Inspired by the Flash , we will together make Everything shorter so that you will be faster as flash to revise them. 
+# shorttastic
+The Aim of this Project is to make everything around you shorter like notes , lecture videos to crash courses ,short entertainment,blogs to the point et...
+
 
 In this project I need following modules : 
 1.login-signup system
