@@ -14,5 +14,6 @@ In this project I need following modules :
 9.many more
 
 #GATHERING RESOURSES 
-1. /programming/cppCheatSheet => found this amazing pdf for c++ quick reference
-2. /programming/javaCheatSheet => this is such a great word doc for java quick reference
+1. /programming/ => some amazing cheatsheets are kept here
+2. /developer roadmaps/ => some roadmaps that will guide the right path to be a master of a feild in development 
+
